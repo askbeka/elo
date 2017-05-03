@@ -1,0 +1,16 @@
+{
+  "name": "elo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Beknar Askarov",
+  "license": "ISC",
+  "bin": {
+    "elo": "index.js"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
